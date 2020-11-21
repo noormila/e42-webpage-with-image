@@ -4,8 +4,8 @@ As part of markdown format we have already seen few things in the class. Now we 
 
 My name is **Noormila**. I love to watch _tv shows_ alot.
 
-Here are few of the _tv shows_ which i've been **binge-watching** lately.
+Here are a few of the _tv shows_ which i've been **binge-watching** lately.
 
-![](crown.jpg)
-![](peakyblinders.jpg)
-![](walking dead.jpg)
+![image1](crown.jpg)
+![image2](peakyblinders.jpg)
+![image3](walkingdead.jpg)
